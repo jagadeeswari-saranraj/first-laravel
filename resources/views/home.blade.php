@@ -7,9 +7,9 @@
     <title>Document</title>
 </head>
 <body>
-    <a href={{url('about')}}> About </a>
-    <a href={{url('service')}}> Service </a>
-    <a href={{url('contactus')}}> Contact US </a> 
+    <a href="{{url('about')}}"> About </a>
+    <a href="{{url('service')}}"> Service </a>
+    <a href="{{url('contactus')}}"> Contact US </a> 
 
 
     <p>  Welcom to laravel </p>

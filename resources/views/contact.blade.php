@@ -8,5 +8,6 @@
 </head>
 <body>
     Hi I am contact us page
+    <a href="{{url('')}}"> back </a>
 </body>
 </html>
